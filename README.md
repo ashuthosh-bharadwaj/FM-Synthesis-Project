@@ -26,8 +26,8 @@ Given a string of notes, it uses the function Notes2Hz.m to play a Brass generat
 These functions generate the amplitude or instantaneous frequency deviation plots/vectors
 
 ### 5) Miscellaneous
- trial.m was used for jst experimentation
- vecProd.m was used in the implementation of the Block function. 
- Notes2Hz.m used in BrassPlayer.m to convert a string of notes to just frequencies
+ trial.m was used for jst experimentation \
+ vecProd.m was used in the implementation of the Block function. \
+ Notes2Hz.m used in BrassPlayer.m to convert a string of notes to just frequencies \
  Output.m was used to plot out and play the different audi files generated.
  

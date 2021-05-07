@@ -9,7 +9,7 @@ EC5.203 Communication Theory, Spring 2021, IIIT Hyderabad.
 
 ## Category of Files:
 
-### 1) Trial_\<type of instument\>.m 
+### 1) Trial_\<type_of_instument\>.m 
 These files directly simulate and play the sound as given in the name and the amplitude and frequency spectrum will be plotted
   
 ### 2) Block.m
@@ -22,7 +22,7 @@ frequency and amplitude are used to create sinusoids and the variable string con
 ### 3) BrassPlayer.m
 Given a string of notes, it uses the function Notes2Hz.m to play a Brass generated audio clip. Each note plays for 0.6 seconds.
   
-### 4) x\<type of instrument\>.m
+### 4) x\<type_of_instrument\>.m
 These functions generate the amplitude or instantaneous frequency deviation plots/vectors
 
 ### 5) Miscellaneous
